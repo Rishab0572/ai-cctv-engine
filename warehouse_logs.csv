@@ -1,0 +1,11 @@
+Person_ID,Entry_Time(s),Exit_Time(s),Duration(s),Evidence
+1,0.5,17.0,16.5,evidence_snapshots/person_1_0_17.jpg
+12,4.17,9.33,5.17,evidence_snapshots/person_12_4_9.jpg
+15,5.33,10.5,5.17,evidence_snapshots/person_15_5_10.jpg
+16,5.33,17.0,11.67,evidence_snapshots/person_16_5_17.jpg
+2,0.5,11.5,11.0,evidence_snapshots/person_2_0_11.jpg
+24,10.67,15.67,5.0,evidence_snapshots/person_24_10_15.jpg
+28,11.83,17.0,5.17,evidence_snapshots/person_28_11_17.jpg
+3,0.5,17.0,16.5,evidence_snapshots/person_3_0_17.jpg
+31,16.67,17.0,0.33,evidence_snapshots/person_31_16_17.jpg
+9,1.83,17.0,15.17,evidence_snapshots/person_9_1_17.jpg
